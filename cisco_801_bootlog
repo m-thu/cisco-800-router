@@ -1,0 +1,60 @@
+
+
+TinyROM version 1.2(2)
+16:22 08/02/99
+Copyright (c) 1998-1999 by cisco Systems, Inc.
+All rights reserved.
+
+POST ......... OK.  4MB DRAM, 8MB Flash.
+
+
+Booting "c800-y6-mw.120-7.XV" ...,
+              Restricted Rights Legend
+
+Use, duplication, or disclosure by the Government is
+subject to restrictions as set forth in subparagraph
+(c) of the Commercial Computer Software - Restricted
+Rights clause at FAR sec. 52.227-19 and subparagraph
+(c) (1) (ii) of the Rights in Technical Data and Computer
+Software clause at DFARS sec. 252.227-7013.
+
+           cisco Systems, Inc.
+           170 West Tasman Drive
+           San Jose, California 95134-1706
+
+
+
+Cisco Internetwork Operating System Software 
+IOS (tm) C800 Software (C800-Y6-MW), Version 12.0(7)XV, EARLY DEPLOYMENT RELEASE SOFTWARE (fc1)
+TAC:Home:SW:IOS:Specials for info
+Copyright (c) 1986-1999 by cisco Systems, Inc.
+Compiled Thu 30-Dec-99 12:33 by susingh
+Image text-base: 0x000EA000, data-base: 0x005D0000
+
+Cisco C801 (MPC860) processor (revision 1) with 43232K bytes of virtual memory.
+Processor board ID JAD04140GUX
+CPU part number 33
+Bridging software.
+Basic Rate ISDN software, Version 1.1.
+1 Ethernet/IEEE 802.3 interface(s)
+1 ISDN Basic Rate interface(s)
+4M bytes of physical memory (DRAM)
+8K bytes of non-volatile configuration memory
+8M bytes of flash on board (4M from flash card)
+
+
+
+Press RETURN to get started!
+
+
+00:00:18: %LINK-3-UPDOWN: Interface Ethernet0, changed state to up
+00:00:19: %LINEPROTO-5-UPDOWN: Line protocol on Interface Ethernet0, changed state to up
+00:00:20: %LINK-5-CHANGED: Interface BRI0, changed state to administratively down
+00:00:21: %SYS-5-CONFIG_I: Configured from memory by console
+00:00:21: %SYS-5-RESTART: System restarted --
+Cisco Internetwork Operating System Software 
+IOS (tm) C800 Software (C800-Y6-MW), Version 12.0(7)XV, EARLY DEPLOYMENT RELEASE SOFTWARE (fc1)
+TAC:Home:SW:IOS:Specials for info
+Copyright (c) 1986-1999 by cisco Systems, Inc.
+Compiled Thu 30-Dec-99 12:33 by susingh
+00:00:21: %LINEPROTO-5-UPDOWN: Line protocol on Interface BRI0, changed state to down
